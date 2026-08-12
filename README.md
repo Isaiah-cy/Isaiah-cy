@@ -44,7 +44,7 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 |---------|-------------|---------------|
 | 🏠 Home Lab | Multi-VM Cybersecurity Lab | [View Project](https://github.com/Isaiah-cy/Multi-VM-Cybersecurity-Lab) |
 | Network Segmentation | Segregation of Networks | [View Project](https://github.com/Isaiah-cy/Network-Segmentation) |
-| 🔐 AD CS | Enterprise Certificate Services | [View Project](https://github.com/Isaiah-cy/AD-CS) |
+| 🔐 IAM on-prem | Identity & Access Management Using Active Directory | [View Project]() |
 | 👥 Active Directory GPO | Secure Group Policy Configuration | [View Project](https://github.com/Isaiah-cy/Secure-Group-Policy-Configuration) |
 | ☁ AWS IAM | Identity & Access Management | [View Project](https://github.com/Isaiah-cy/AWS-IAM) |
 | ☁ Azure IAM | Microsoft Entra Identity | [View Project]() |
