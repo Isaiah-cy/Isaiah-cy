@@ -47,7 +47,7 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 | 🔐 IAM on-prem | Identity & Access Management Using Active Directory | [View Project](https://github.com/Isaiah-cy/IAM-on-prem) |
 | 👥 Active Directory Certificate Services | Encrypting File System Using Active Directory Certificate Services AD CS  | [View Project](https://github.com/Isaiah-cy/Active-Directory-Certificate-Services) |
 | ☁ AWS IAM | Identity & Access Management | [View Project](https://github.com/Isaiah-cy/AWS-IAM) |
-| 📑 Security Policy Development | Policy Documentation | [View Project](https://github.com/Isaiah-cy/Secure-Group-Policy-Configuration) |
+| 📑 Security Policy Development | Policy Documentation | [View Project](https://github.com/Isaiah-cy/Security-Policy-Development) |
 | ☁ Azure IAM | Microsoft Entra Identity | [View Project]() |
 | 🐧 Linux IAM | User & Permission Management | [View Project]() |
 | 🛡 Nessus | Network Vulnerability Management | [View Project]() |
