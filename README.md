@@ -48,11 +48,8 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 | 👥 Active Directory Certificate Services | Encrypting File System Using Active Directory Certificate Services AD CS  | [View Project](https://github.com/Isaiah-cy/Active-Directory-Certificate-Services) |
 | ☁ AWS IAM | Identity & Access Management | [View Project](https://github.com/Isaiah-cy/AWS-IAM) |
 | 📑 Security Policy Development | Policy Documentation | [View Project](https://github.com/Isaiah-cy/Security-Policy-Development) |
-| ☁ Azure IAM | Microsoft Entra Identity | [View Project]() |
-| 🐧 Linux IAM | User & Permission Management | [View Project]() |
-| 🛡 Nessus | Network Vulnerability Management | [View Project]() |
-| 📊 Qualys | Enterprise Vulnerability Management | [View Project]() |
-| ☁ Prowler | AWS Cloud Security Assessment | [View Project]() |
+| 🛡 Nessus |Network Vulnerability Management | [View Project]() |
+| ☁ Prowler | AWS Cloud Vulnerability Management | [View Project]() |
 | 🎯 Penetration Testing | Network & Web Security Testing | [View Project]() |
 | 📈 Splunk SIEM | Detection & Monitoring | [View Project]() |
 | 🔎 MITRE ATT&CK | Threat Hunting & Detection | [View Project]() |
