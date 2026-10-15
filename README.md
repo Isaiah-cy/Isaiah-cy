@@ -50,7 +50,7 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 | 📑 Security Policy Development | Policy Documentation | [View Project](https://github.com/Isaiah-cy/Security-Policy-Development) |
 | 🛡 Nessus |Network Vulnerability Management | [View Project](https://github.com/Isaiah-cy/On-prem-Vulnerabilities-Management) |
 | ☁ Prowler | AWS Cloud Vulnerability Management | [View Project](https://github.com/Isaiah-cy/AWS-Cloud-Vulnerabilities-Management) |
-| 🔎 Threat Hunting & Detection |  MITRE ATT&CK, SOcradar | [View Project]() |
+| 🔎 Threat Hunting & Detection |  MITRE ATT&CK, SOcradar | [View Project](https://github.com/Isaiah-cy/Threat-Intelligence) |
 | 🎯 Penetration Testing | Network & Web Security Testing | [View Project]() |
 | 📈 Splunk SIEM | Detection & Monitoring | [View Project]() |
 | 📑 Framework Mapping | NIST CSF • ISO 27001 • CIS Controls | [View Project]() |
