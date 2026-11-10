@@ -51,10 +51,10 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 | 🛡 Nessus |Network Vulnerability Management | [View Project](https://github.com/Isaiah-cy/On-prem-Vulnerabilities-Management) |
 | ☁ Prowler | AWS Cloud Vulnerability Management | [View Project](https://github.com/Isaiah-cy/AWS-Cloud-Vulnerabilities-Management) |
 | 🔎 Threat Hunting & Detection |  MITRE ATT&CK, SOcradar | [View Project](https://github.com/Isaiah-cy/Threat-Intelligence) |
+| 📧 Zphisher | Security Awareness Simulation | [View Project](https://github.com/Isaiah-cy/Zphisher-Simulation-) |
 | 🎯 Penetration Testing | Network & Web Security Testing | [View Project]() |
 | 📈 Splunk SIEM | Detection & Monitoring | [View Project]() |
 | 📑 Framework Mapping | NIST CSF • ISO 27001 • CIS Controls | [View Project]() |
-| 📧 Zphisher | Security Awareness Simulation | [View Project]() |
 | 🦠 Malware Analysis | Static & Dynamic Analysis | [View Project]() |
 
 ---
