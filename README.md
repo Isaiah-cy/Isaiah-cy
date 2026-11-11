@@ -42,7 +42,7 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 
 | Case study | What the reviewer will learn |
 |---|---|
-| [Threat Intelligence Assessment](https://github.com/sanusi-droid/Joiner-Mover-Leaver-Workflow) | Select relevant OTX/SOC Radar intelligence, validate indicators and assess local relevance. |
+| [Threat Intelligence Assessment](https://github.com/Isaiah-cy/Threat-Intelligence-Assessment) | Select relevant OTX/SOC Radar intelligence, validate indicators and assess local relevance. |
 | [IOC-to-Detection Handoff](./case-studies/02-quarterly-access-review/README.md) | Translate a validated threat hypothesis into a proposed KQL detection and SOC handoff. |
 | [MITRE ATT&CK Mapping](./case-studies/03-rbac-and-least-privilege/README.md) | Map observed behaviors to techniques, distinguish evidence from assumptions. |
 | [Security Investigation Report](./case-studies/04-ad-and-entra-id-administration/README.md) | Correlate available telemetry, assess impact and communicate recommended actions. |
