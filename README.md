@@ -17,16 +17,14 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 
 | 👨‍💻 About Me | 🛠 Skills & Technologies |
 |---------------|--------------------------|
-| • Cybersecurity Analyst<br>• Identity & Access Management<br>• Cloud Security<br>• Vulnerability Management<br>• Threat Hunting<br>• SIEM & Detection Engineering | **Cloud:** AWS, Azure<br>**IAM:** AD CS, GPO, AWS IAM, Azure IAM, Linux IAM<br>**Security:** Nessus, Qualys, Prowler, Splunk, Wireshark, Nmap<br>**OS:** Windows Server, Ubuntu, Kali Linux<br>**Frameworks:** NIST CSF, NIST SP 800-53, ISO 27001, MITRE ATT&CK |
+| • Cybersecurity Analyst<br>• Identity & Access Management<br>• Cloud Security<br>• Vulnerability Management<br>• Threat Hunting<br>• SIEM & Detection Engineering | **Cloud:** AWS, Azure<br>**IAM:** AD CS, GPO, AWS IAM, Azure IAM, <br>**Security:** Nessus,Prowler, Nmap<br>**OS:** Windows Server, Ubuntu, Kali Linux<br>**Frameworks:** NIST CSF, NIST SP 800-53, ISO 27001, MITRE ATT&CK |
 
 ---
-## work experience | Halisans Technologies
+## Work Experience
+| Job title | Period | Location | Environment |
+|-----------|--------|-----------|-------------|
+|  Cybersecurity Analyst| 2026 - Present | Halisans Technologies | Cybersecurity Operations |
 
-**Role:** Cybersecurity Analyst
-
-**Period:** 2026 - Present
-
-**Environment:** Cybersecurity Operations
 
 **Responsibilities:**
 
