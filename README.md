@@ -22,35 +22,32 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 ---
 ## work experience | Halisans Technologies
 
-**Role:** IAM Analyst  
-**Period:** 2003-2010
+**Role:** Cybersecurity Analyst
+
+**Period:** 2026 - Present
+
 **Environment:** Cybersecurity Operations
 
 **Responsibilities:**
 
-- Joiner–Mover–Leaver Workflow: Document authorized provisioning, changes and deprovisioning with approval and closure evidence.
-- Quarterly Access Review: Review entitlements, flag exceptions, record owner decisions and track remediation.
-- RBAC & Least Privilege: Design an entitlement matrix and validate group/role assignments.
-- AD and Entra ID Administration: Document identity configuration, GPOs and secure access controls.
-
+- Threat Intelligence Assessment: Select relevant OTX/SOC Radar intelligence, validate indicators and assess local relevance.
+- IOC-to-Detection Handoff: Translate a validated threat hypothesis into a proposed KQL detection and SOC handoff.
+- MITRE ATT&CK Mapping: Map observed behaviors to techniques, distinguish evidence from assumptions.
+- Security Investigation Report: Correlate available telemetry, assess impact and communicate recommended actions.
 
 **Impact highlights:**
-- Implemented and tested identity and access management workflows within the HALISANS.COM Active Directory environment, covering user provisioning, role-based access control (RBAC), and Group Policy security configurations.
-
-- Developed identity lifecycle documentation covering Joiner, Mover, and Leaver (JML) processes, including access requests, approval workflows, provisioning, and account deactivation procedures.
-
-- Configured and evaluated security group permissions for HLS-SOC and other organizational groups to support role-based access and least-privilege principles.
-
-- Implemented access control documentation, RBAC entitlement matrices, and user access review records to upport consistent identity governance and audit readiness.
-
+- Assessed threat intelligence across selected OTX/SOC Radar indicators, resulting in validated IOCs and locally relevant threat hypotheses.
+- Produced a sanitized threat intelligence assessment, proposed KQL detection logic, and SOC handoff report.
+- Strengthened the threat investigation process by mapping observed behaviours to MITRE ATT&CK techniques and distinguishing verified evidence from assumptions.
+  
 ## Featured case studies
 
 | Case study | What the reviewer will learn |
 |---|---|
-| [Joiner–Mover–Leaver Workflow](https://github.com/sanusi-droid/Joiner-Mover-Leaver-Workflow) | Documented authorized provisioning, changes and deprovisioning with approval and closure evidence. |
-| [Quarterly Access Review](./case-studies/02-quarterly-access-review/README.md) | Reviewed entitlements, flag exceptions, record owner decisions and track remediation. |
-| [RBAC & Least Privilege](./case-studies/03-rbac-and-least-privilege/README.md) | Implemented an entitlement matrix and validate group/role assignments. |
-| [AD and Entra ID Administration](./case-studies/04-ad-and-entra-id-administration/README.md) | Documented identity configuration, GPOs and secure access controls. |
+| [Threat Intelligence Assessment](https://github.com/sanusi-droid/Joiner-Mover-Leaver-Workflow) | Select relevant OTX/SOC Radar intelligence, validate indicators and assess local relevance. |
+| [IOC-to-Detection Handoff](./case-studies/02-quarterly-access-review/README.md) | Translate a validated threat hypothesis into a proposed KQL detection and SOC handoff. |
+| [MITRE ATT&CK Mapping](./case-studies/03-rbac-and-least-privilege/README.md) | Map observed behaviors to techniques, distinguish evidence from assumptions. |
+| [Security Investigation Report](./case-studies/04-ad-and-entra-id-administration/README.md) | Correlate available telemetry, assess impact and communicate recommended actions. |
 
 ---
 
