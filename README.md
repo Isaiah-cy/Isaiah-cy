@@ -42,6 +42,7 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 
 | Case study | What the reviewer will learn |
 |---|---|
+| [Threat-Modeling-and-Risk-Assessment-for-a-SaaS-Product](https://github.com/Isaiah-cy/Threat-Modeling-and-Risk-Assessment-for-a-SaaS-Product) | Conducting threat model and risk assessment on a SaaS product |
 | [Threat Intelligence Assessment](https://github.com/Isaiah-cy/Threat-Intelligence-Assessment) | Select relevant OTX/SOC Radar intelligence, validate indicators and assess local relevance. |
 | [IOC-to-Detection Handoff](https://github.com/Isaiah-cy/IOC-to-Detection-Handoff) | Translate a validated threat hypothesis into a proposed KQL detection and SOC handoff. |
 | [MITRE ATT&CK Mapping](https://github.com/Isaiah-cy/MITRE-ATT-CK-Mapping) | Map observed behaviors to techniques, distinguish evidence from assumptions. |
